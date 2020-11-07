@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+width: 100%;
+border:5px solid yellow;
+}
+
+.active{
+    display: inline-block;
+}
+
+img{
+    display: none;
+    width: 100%;
+}
+
+
+
+
+
